@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "23.06.2003"; // Дата рождения
-var fullname = "Пачковский Вова Андреевич" // ФИО
+var birthdate = "03.06.2004"; // Дата рождения
+var fullname = "Партыка Максим Евгеньевич" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
